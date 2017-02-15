@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+
+webrick:
+  headers:
+    My-Header: Welcome to S0N9.COM
+    My-Other-Header: My-Other-Value
