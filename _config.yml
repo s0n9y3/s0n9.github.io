@@ -2,9 +2,9 @@ theme: jekyll-theme-slate
 
 timezone: Etc/GMT-8
 
-webrick:
-  headers:
-    My-Header: Welcome to S0N9.COM
-    My-Other-Header: This is Song Ye's personal website.
+# Site settings
+title: S0N9.COM
+SEOTitle: SONG YE'S | S0N9.COM
+description: "SONG YE'S"
+keyword: "Song Ye, SONG YE'S"
 
-project_title: SONG
