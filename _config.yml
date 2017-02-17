@@ -1,4 +1,5 @@
-# theme: jekyll-theme-slate
+# Theme setting
+theme: jekyll-theme-slate
 
 timezone: Etc/GMT-8
 
