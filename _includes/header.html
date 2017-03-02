@@ -1,13 +1,14 @@
 <header id="header" class="parent justify-spaceBetween">
   <div class="inner w100 relative">
     <span class="f-left">
-      <a href="{{ site.baseurl }}/">
+      <a href="{{ site.url }}/">
         <h1>
           S0N9<span>Y3</span>
         </h1>
       </a>
     </span>
     <span id="nav-links" class="absolute right bottom">
+        <a href="{{ site.url }}/">Home</a>
       <!-- Nav pages -->
 	    {% for page in site.pages %}
 	      {% if page.layout == "page" %}

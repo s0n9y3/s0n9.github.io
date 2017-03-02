@@ -719,3 +719,9 @@ footer {
 
 /* Literal.Number.Integer.Long */
 /*- Custom style -*/
+body {
+  font-family: Inconsolata, "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #333; }
