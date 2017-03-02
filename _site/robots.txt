@@ -1,1 +1,1 @@
-Sitemap: http://s0n9.com//sitemap.xml
+Sitemap: http://localhost:4000/http://s0n9.com//sitemap.xml
