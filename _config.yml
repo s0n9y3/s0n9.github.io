@@ -8,7 +8,7 @@ author:
   url: "http://s0n9.com"
 
 # Build settings
-baseurl: http://s0n9.com/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
